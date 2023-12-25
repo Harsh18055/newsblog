@@ -1,0 +1,91 @@
+/*Logo*/
+#header
+{
+	background-color: #1E90FF;
+	text-align: center;
+	padding: 15px;
+}
+.logo
+{
+	display: inline-block;
+}
+.logo img
+{
+	width: 200px;
+}
+
+/*Navbar*/
+.topnav {
+   background: #333;
+    text-align: center;
+}
+
+.topnav ul
+{
+  list-style-type: none;
+  margin: auto;
+}
+
+.topnav li
+{
+	display: inline-block;
+}
+.topnav li a {
+  
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 17px;
+    font-weight:600;
+    transition:all 0.5s ease 0s;
+
+}
+
+.topnav li  a:hover,
+.topnav li  a.active
+{
+    color:#fff;
+    background:#1e90ff;
+}
+
+/*Slider*/
+#slider-img img
+{
+	height: 600px;
+}
+
+/*Heading*/
+.heading
+{
+	padding-top: 40px;
+	width: 400px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+	*Images Post*/
+.post
+{
+	padding-top: 40px;
+	border: 10px ;
+	text-align: center;
+}
+
+/*Trending Post*/
+
+
+/*All Post*/'
+.card 
+{
+        margin: 0 auto; 
+        float: none; 
+        margin-bottom: 10px; 
+}
+
+
+
+
+/*Admin Panel*/
+
